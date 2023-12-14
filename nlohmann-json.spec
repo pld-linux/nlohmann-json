@@ -1,13 +1,13 @@
 Summary:	JSON for Modern C++ by Niels Lohmann
 Summary(pl.UTF-8):	JSON dla współczesnego C++ autorstwa Nielsa Lohmanna
 Name:		nlohmann-json
-Version:	3.11.2
+Version:	3.11.3
 Release:	1
 License:	MIT
 Group:		Libraries
 #Source0Download: https://github.com/nlohmann/json/releases
 Source0:	https://github.com/nlohmann/json/archive/v%{version}/json-%{version}.tar.gz
-# Source0-md5:	e8d56bc54621037842ee9f0aeae27746
+# Source0-md5:	d603041cbc6051edbaa02ebb82cf0aa9
 URL:		https://json.nlohmann.me/
 BuildRequires:	cmake >= 3.1
 BuildRequires:	libstdc++-devel >= 6:4.7
